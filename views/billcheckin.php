@@ -8,7 +8,7 @@ if(!isset($_SESSION["user"]) || !isset($_SESSION["user"]["id"])) {
     headerRedirect(null, null, null, "/hostay/views/");
 }
 
-
+# hoang van quan
 
 ?>
 <!DOCTYPE html>
