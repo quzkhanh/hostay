@@ -1,67 +1,64 @@
-<h1 align="center" id="title">HOSTAY HOTEL</h1>
+# HOSTAY HOTEL
 
-<p align="center"><img src="https://raw.githubusercontent.com/vandunxg/hostay/master/public/HostayHotel.png" alt="project-image"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vandunxg/hostay/master/public/HostayHotel.png" alt="Hostay Hotel">
+</p>
 
-<p id="description">The HOSTAY HOTEL project using PHP HTML CSS and MySQL automates various hotel operations enhancing efficiency and customer experience. Key features include online room booking customer and room management secure payment processing and streamlined check-in/check-out procedures. A standout feature is the QR code-based checkout allowing quick and convenient customer departures. Additionally the system offers reports and analytics for informed decision-making and user roles management to ensure data security. This project effectively modernizes hotel management processes providing a seamless experience for both staff and guests.</p>
+## 📌 Giới thiệu
 
-<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="shields"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="shields"> <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&amp;logo=html5&amp;logoColor=white" alt="shields"> <img src="https://img.shields.io/badge/CSS-563d7c?&amp;style=flat&amp;logo=css3&amp;logoColor=white" alt="shields"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="shields"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;logo=jquery&amp;logoColor=white" alt="shields"></p>
+**HOSTAY HOTEL** là một hệ thống quản lý khách sạn được xây dựng bằng **PHP, HTML, CSS và MySQL** nhằm tự động hóa các hoạt động khách sạn, nâng cao hiệu suất làm việc và trải nghiệm khách hàng. Dự án này cung cấp các tính năng như:
 
-<h2>🚀 Demo</h2>
+- **Đặt phòng trực tuyến**, giúp khách hàng dễ dàng kiểm tra tình trạng phòng và thực hiện đặt phòng ngay lập tức.
+- **Quản lý khách hàng & phòng**, cho phép khách sạn theo dõi thông tin khách hàng, tình trạng phòng và lịch sử đặt phòng.
+- **Xử lý thanh toán an toàn**, hỗ trợ nhiều phương thức thanh toán hiện đại.
+- **Quy trình check-in/check-out nhanh chóng**, đặc biệt là tính năng **quét mã QR** để làm thủ tục nhanh hơn.
+- **Hệ thống báo cáo và phân tích**, cung cấp dữ liệu hữu ích giúp khách sạn đưa ra quyết định thông minh hơn.
+- **Phân quyền người dùng**, đảm bảo an toàn dữ liệu bằng cách giới hạn quyền truy cập theo vai trò của nhân viên và quản lý.
 
-Updating...
+Dự án này giúp hiện đại hóa quy trình vận hành khách sạn, mang lại trải nghiệm mượt mà cho cả nhân viên và khách lưu trú.
 
-<h2>Project Screenshots:</h2>
+## ✨ Tính năng nổi bật
 
-Updating...
-  
-<h2>🧐 Features</h2>
+- **📅 Đặt & quản lý phòng**: Khách hàng có thể đặt phòng trực tuyến, kiểm tra tình trạng phòng theo thời gian thực. Nhân viên có thể cập nhật trạng thái phòng, xử lý hủy hoặc thay đổi đặt phòng.
+- **👥 Quản lý người dùng**: Lưu trữ thông tin khách hàng, lịch sử đặt phòng để cá nhân hóa dịch vụ. Hệ thống cũng hỗ trợ phân quyền người dùng: admin, nhân viên và khách hàng.
+- **🏨 Quản lý phòng**: Giúp nhân viên theo dõi trạng thái phòng, sắp xếp phòng cho khách và điều phối lịch dọn dẹp phòng.
+- **📲 Check-in/Check-out nhanh chóng**: Hỗ trợ quy trình check-in/check-out tự động bằng mã QR, giảm thời gian chờ đợi của khách hàng.
+- **📊 Báo cáo & phân tích**: Cung cấp thông tin chi tiết về hoạt động khách sạn, giúp ban quản lý có cái nhìn tổng quan và đưa ra quyết định chính xác hơn.
 
-Here're some of the project's best features:
+## 🛠️ Hướng dẫn cài đặt
 
-*   Room Booking and Management: Allows customers to book rooms online view room availability in real-time and manage their reservations. Hotel staff can also manage bookings update room statuses and handle cancellations or modifications efficiently.
-*   User Management: This feature stores and manages customer information and booking history enabling personalized service and better customer relationship management. It also includes user roles and permissions to control access for administrators staff and guests.
-*   Room Management: Enables hotel staff to oversee room statuses assign rooms to guests and monitor housekeeping tasks. This ensures that rooms are always ready for new guests and that housekeeping schedules are well-organized.
-*   Check-in and Check-out: Streamlines the check-in and check-out processes allowing guests to complete these procedures quickly and easily. The system can handle both manual check-ins/check-outs and automated ones through the use of QR codes.
-
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Clone code to local</p>
-
-```
-git Clone repository
-```
-
-<p>2. Put all code in folder `hostay`</p>
-
-```
-/hostay/ (code in here)
+1️⃣ **Clone mã nguồn về máy**
+```bash
+git clone <repository>
 ```
 
-<p>3. Config application</p>
-
+2️⃣ **Đặt mã nguồn vào thư mục `hostay`**
+```bash
+/hostay/ (code ở đây)
 ```
-edit file php.config.ini
+
+3️⃣ **Cấu hình ứng dụng**
+```bash
+Chỉnh sửa file php.config.ini
 ```
 
-<p>4. Run</p>
-
-```
+4️⃣ **Chạy ứng dụng**
+```bash
 http://localhost/hostay
 ```
 
-  
-  
-<h2>💻 Built with</h2>
+## 🏗️ Công nghệ sử dụng
 
-Technologies used in the project:
+Dự án được xây dựng bằng các công nghệ:
 
-*   PHP
-*   MYSQL
-*   HTML
-*   CSS
-*   JS
-*   Jqurery
+- **PHP**
+- **MySQL**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
 
-<h2>🛡️ License:</h2>
+## 🛡️ Giấy phép
 
-This project is licensed under the MIT License.
+Dự án này được cấp phép theo **MIT License**.
+
