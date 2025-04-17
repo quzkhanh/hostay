@@ -8,3 +8,6 @@ if(isset($_GET["redirect"])) {
 } else {
     header("location:/hostay/views/");
 }
+
+
+# hoang van quan
