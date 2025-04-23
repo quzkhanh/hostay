@@ -60,4 +60,4 @@ Dự án được xây dựng bằng các công nghệ:
 
 ## 🛡️ Giấy phép
 
-Dự án này được cấp phép theo **MIT License**.XIN CHAO MN
+Dự án này được cấp phép theo **MIT License**.XIN CHAO MN, Chung toi la Nhom 1
