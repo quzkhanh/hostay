@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /hostay
+RewriteRule ^$ views/ [L,R=301]
