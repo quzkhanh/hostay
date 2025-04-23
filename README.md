@@ -9,7 +9,7 @@
 **HOSTAY HOTEL** là một hệ thống quản lý khách sạn được xây dựng bằng **PHP, HTML, CSS và MySQL** nhằm tự động hóa các hoạt động khách sạn, nâng cao hiệu suất làm việc và trải nghiệm khách hàng. Dự án này cung cấp các tính năng như:
 
 - **Đặt phòng trực tuyến**, giúp khách hàng dễ dàng kiểm tra tình trạng phòng và thực hiện đặt phòng ngay lập tức.
-- **Quản lý khách hàng & phòng**, cho phép khách sạn theo dõi thông tin khách hàng, tình trạng phòng và lịch sử đặt phòng.
+- **Quản lý khách hàng & phòng**, cho phép khách sạn theo dõi thông tin khách hàng, tình trạng phòng và lịch sử đặt phòng..
 - **Xử lý thanh toán an toàn**, hỗ trợ nhiều phương thức thanh toán hiện đại.
 - **Quy trình check-in/check-out nhanh chóng**, đặc biệt là tính năng **quét mã QR** để làm thủ tục nhanh hơn.
 - **Hệ thống báo cáo và phân tích**, cung cấp dữ liệu hữu ích giúp khách sạn đưa ra quyết định thông minh hơn.
