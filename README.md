@@ -44,7 +44,7 @@ Chỉnh sửa file php.config.ini
 
 4️⃣ **Chạy ứng dụng**
 ```bash
-http://localhost/hostay
+http://localhost/hostay/
 ```
 
 ## 🏗️ Công nghệ sử dụng
