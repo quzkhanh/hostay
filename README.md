@@ -60,7 +60,4 @@ Dự án được xây dựng bằng các công nghệ:
 
 ## 🛡️ Giấy phép
 
-Dự án này được cấp phép theo **MIT License**.
-Nguyễn Đức Thắng 
-23/04/2025
-hello mn
+Dự án này được cấp phép theo **MIT License**.XIN CHAO MN
