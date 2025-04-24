@@ -6,7 +6,7 @@
 USE hostay_db;
 
 -- -----------------------------TABLE----------------------------------------------
---
+
 -- Definition of table `tblbill`
 --
 DROP 
