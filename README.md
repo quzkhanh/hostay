@@ -60,4 +60,5 @@ Dự án được xây dựng bằng các công nghệ:
 
 ## 🛡️ Giấy phép
 
-Dự án này được cấp phép theo **MIT License**.Mong muốn khách hàng sử dụng tốt nhất. hello
+Dự án này được cấp phép theo **MIT License**.Mong muốn khách hàng sử dụng tốt nhất
+xin chao
